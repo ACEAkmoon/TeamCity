@@ -1,2 +1,2 @@
-"C:\Program Files\7-Zip\"7z.exe a hopa-dev-0.1-%build.number%.zip ".\target\hopa-0.1.jar"
+"C:\Program Files\7-Zip\"7z.exe a TEST-dev-0.1-%build.number%.zip ".\target\TEST-0.1.jar"
 
